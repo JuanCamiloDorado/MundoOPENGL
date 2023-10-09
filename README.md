@@ -1,7 +1,7 @@
 # MundoOPENGL
-Juan Camilo Dorado Varón
-Juan Felipe Muñoz
-Carlo Orduz
+### Juan Camilo Dorado Varón
+### Juan Felipe Muñoz
+### Carlos Orduz
 ![Imagen](Resultado1.png) 
 ![Imagen](Resultado2.png) 
 ![Imagen](Resultado3.png)
