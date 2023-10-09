@@ -1,45 +1,46 @@
-﻿cl : línea de comandos  warning D9035: La opción 'Gm' está desusada y se quitará en próximas versiones
+﻿cl : línea de comandos warning D9035: La opción 'Gm' está desusada y se quitará en próximas versiones
   main.cpp
-C:\Users\dorad\Downloads\MOJODOJO-OPENGL\OpenGl\main.cpp(60,10): warning C4101: 'h': variable local sin referencia
-C:\Users\dorad\Downloads\MOJODOJO-OPENGL\OpenGl\main.cpp(60,7): warning C4101: 'w': variable local sin referencia
-C:\Users\dorad\Downloads\MOJODOJO-OPENGL\OpenGl\main.cpp(91,10): warning C4101: 'h': variable local sin referencia
-C:\Users\dorad\Downloads\MOJODOJO-OPENGL\OpenGl\main.cpp(91,7): warning C4101: 'w': variable local sin referencia
-C:\Users\dorad\Downloads\MOJODOJO-OPENGL\OpenGl\main.cpp(122,10): warning C4101: 'h': variable local sin referencia
-C:\Users\dorad\Downloads\MOJODOJO-OPENGL\OpenGl\main.cpp(122,7): warning C4101: 'w': variable local sin referencia
-C:\Users\dorad\Downloads\MOJODOJO-OPENGL\OpenGl\main.cpp(154,10): warning C4101: 'h': variable local sin referencia
-C:\Users\dorad\Downloads\MOJODOJO-OPENGL\OpenGl\main.cpp(154,7): warning C4101: 'w': variable local sin referencia
-C:\Users\dorad\Downloads\MOJODOJO-OPENGL\OpenGl\main.cpp(190,10): warning C4101: 'h': variable local sin referencia
-C:\Users\dorad\Downloads\MOJODOJO-OPENGL\OpenGl\main.cpp(190,7): warning C4101: 'w': variable local sin referencia
-C:\Users\dorad\Downloads\MOJODOJO-OPENGL\OpenGl\main.cpp(219,10): warning C4101: 'h': variable local sin referencia
-C:\Users\dorad\Downloads\MOJODOJO-OPENGL\OpenGl\main.cpp(219,7): warning C4101: 'w': variable local sin referencia
-C:\Users\dorad\Downloads\MOJODOJO-OPENGL\OpenGl\main.cpp(249,10): warning C4101: 'h': variable local sin referencia
-C:\Users\dorad\Downloads\MOJODOJO-OPENGL\OpenGl\main.cpp(249,7): warning C4101: 'w': variable local sin referencia
-C:\Users\dorad\Downloads\MOJODOJO-OPENGL\OpenGl\main.cpp(278,10): warning C4101: 'h': variable local sin referencia
-C:\Users\dorad\Downloads\MOJODOJO-OPENGL\OpenGl\main.cpp(278,7): warning C4101: 'w': variable local sin referencia
-C:\Users\dorad\Downloads\MOJODOJO-OPENGL\OpenGl\main.cpp(307,10): warning C4101: 'h': variable local sin referencia
-C:\Users\dorad\Downloads\MOJODOJO-OPENGL\OpenGl\main.cpp(307,7): warning C4101: 'w': variable local sin referencia
-C:\Users\dorad\Downloads\MOJODOJO-OPENGL\OpenGl\main.cpp(335,10): warning C4101: 'h': variable local sin referencia
-C:\Users\dorad\Downloads\MOJODOJO-OPENGL\OpenGl\main.cpp(335,7): warning C4101: 'w': variable local sin referencia
-C:\Users\dorad\Downloads\MOJODOJO-OPENGL\OpenGl\main.cpp(361,10): warning C4101: 'h': variable local sin referencia
-C:\Users\dorad\Downloads\MOJODOJO-OPENGL\OpenGl\main.cpp(361,7): warning C4101: 'w': variable local sin referencia
-C:\Users\dorad\Downloads\MOJODOJO-OPENGL\OpenGl\main.cpp(459,25): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
-C:\Users\dorad\Downloads\MOJODOJO-OPENGL\OpenGl\main.cpp(471,26): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
-C:\Users\dorad\Downloads\MOJODOJO-OPENGL\OpenGl\main.cpp(483,25): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
-C:\Users\dorad\Downloads\MOJODOJO-OPENGL\OpenGl\main.cpp(498,25): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
-C:\Users\dorad\Downloads\MOJODOJO-OPENGL\OpenGl\main.cpp(516,26): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
-C:\Users\dorad\Downloads\MOJODOJO-OPENGL\OpenGl\main.cpp(528,25): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
-C:\Users\dorad\Downloads\MOJODOJO-OPENGL\OpenGl\main.cpp(548,24): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
-C:\Users\dorad\Downloads\MOJODOJO-OPENGL\OpenGl\main.cpp(554,24): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
-C:\Users\dorad\Downloads\MOJODOJO-OPENGL\OpenGl\main.cpp(566,25): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
-C:\Users\dorad\Downloads\MOJODOJO-OPENGL\OpenGl\main.cpp(578,24): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
-C:\Users\dorad\Downloads\MOJODOJO-OPENGL\OpenGl\main.cpp(604,24): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
-C:\Users\dorad\Downloads\MOJODOJO-OPENGL\OpenGl\main.cpp(616,25): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
-C:\Users\dorad\Downloads\MOJODOJO-OPENGL\OpenGl\main.cpp(622,22): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
-C:\Users\dorad\Downloads\MOJODOJO-OPENGL\OpenGl\main.cpp(628,24): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
-C:\Users\dorad\Downloads\MOJODOJO-OPENGL\OpenGl\main.cpp(652,25): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
-C:\Users\dorad\Downloads\MOJODOJO-OPENGL\OpenGl\main.cpp(659,25): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
-C:\Users\dorad\Downloads\MOJODOJO-OPENGL\OpenGl\main.cpp(666,24): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
-C:\Users\dorad\Downloads\MOJODOJO-OPENGL\OpenGl\main.cpp(673,24): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
-C:\Users\dorad\Downloads\MOJODOJO-OPENGL\OpenGl\main.cpp(1010,16): warning C4305: 'inicializando': truncamiento de 'double' a 'GLfloat'
-C:\Users\dorad\Downloads\MOJODOJO-OPENGL\OpenGl\main.cpp(1011,16): warning C4305: 'inicializando': truncamiento de 'double' a 'GLfloat'
-  TemplateProject.vcxproj -> C:\Users\dorad\Downloads\MOJODOJO-OPENGL\OpenGl\Debug\TemplateProject.exe
+C:\Users\Labor\OneDrive\Documentos\Proyecto-Dojo\proyectoDojo -OpenGL\main.cpp(56,10): warning C4101: 'h': variable local sin referencia
+C:\Users\Labor\OneDrive\Documentos\Proyecto-Dojo\proyectoDojo -OpenGL\main.cpp(56,7): warning C4101: 'w': variable local sin referencia
+C:\Users\Labor\OneDrive\Documentos\Proyecto-Dojo\proyectoDojo -OpenGL\main.cpp(87,10): warning C4101: 'h': variable local sin referencia
+C:\Users\Labor\OneDrive\Documentos\Proyecto-Dojo\proyectoDojo -OpenGL\main.cpp(87,7): warning C4101: 'w': variable local sin referencia
+C:\Users\Labor\OneDrive\Documentos\Proyecto-Dojo\proyectoDojo -OpenGL\main.cpp(118,10): warning C4101: 'h': variable local sin referencia
+C:\Users\Labor\OneDrive\Documentos\Proyecto-Dojo\proyectoDojo -OpenGL\main.cpp(118,7): warning C4101: 'w': variable local sin referencia
+C:\Users\Labor\OneDrive\Documentos\Proyecto-Dojo\proyectoDojo -OpenGL\main.cpp(150,10): warning C4101: 'h': variable local sin referencia
+C:\Users\Labor\OneDrive\Documentos\Proyecto-Dojo\proyectoDojo -OpenGL\main.cpp(150,7): warning C4101: 'w': variable local sin referencia
+C:\Users\Labor\OneDrive\Documentos\Proyecto-Dojo\proyectoDojo -OpenGL\main.cpp(182,10): warning C4101: 'h': variable local sin referencia
+C:\Users\Labor\OneDrive\Documentos\Proyecto-Dojo\proyectoDojo -OpenGL\main.cpp(182,7): warning C4101: 'w': variable local sin referencia
+C:\Users\Labor\OneDrive\Documentos\Proyecto-Dojo\proyectoDojo -OpenGL\main.cpp(211,10): warning C4101: 'h': variable local sin referencia
+C:\Users\Labor\OneDrive\Documentos\Proyecto-Dojo\proyectoDojo -OpenGL\main.cpp(211,7): warning C4101: 'w': variable local sin referencia
+C:\Users\Labor\OneDrive\Documentos\Proyecto-Dojo\proyectoDojo -OpenGL\main.cpp(241,10): warning C4101: 'h': variable local sin referencia
+C:\Users\Labor\OneDrive\Documentos\Proyecto-Dojo\proyectoDojo -OpenGL\main.cpp(241,7): warning C4101: 'w': variable local sin referencia
+C:\Users\Labor\OneDrive\Documentos\Proyecto-Dojo\proyectoDojo -OpenGL\main.cpp(270,10): warning C4101: 'h': variable local sin referencia
+C:\Users\Labor\OneDrive\Documentos\Proyecto-Dojo\proyectoDojo -OpenGL\main.cpp(270,7): warning C4101: 'w': variable local sin referencia
+C:\Users\Labor\OneDrive\Documentos\Proyecto-Dojo\proyectoDojo -OpenGL\main.cpp(299,10): warning C4101: 'h': variable local sin referencia
+C:\Users\Labor\OneDrive\Documentos\Proyecto-Dojo\proyectoDojo -OpenGL\main.cpp(299,7): warning C4101: 'w': variable local sin referencia
+C:\Users\Labor\OneDrive\Documentos\Proyecto-Dojo\proyectoDojo -OpenGL\main.cpp(327,10): warning C4101: 'h': variable local sin referencia
+C:\Users\Labor\OneDrive\Documentos\Proyecto-Dojo\proyectoDojo -OpenGL\main.cpp(327,7): warning C4101: 'w': variable local sin referencia
+C:\Users\Labor\OneDrive\Documentos\Proyecto-Dojo\proyectoDojo -OpenGL\main.cpp(353,10): warning C4101: 'h': variable local sin referencia
+C:\Users\Labor\OneDrive\Documentos\Proyecto-Dojo\proyectoDojo -OpenGL\main.cpp(353,7): warning C4101: 'w': variable local sin referencia
+C:\Users\Labor\OneDrive\Documentos\Proyecto-Dojo\proyectoDojo -OpenGL\main.cpp(420,1): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+C:\Users\Labor\OneDrive\Documentos\Proyecto-Dojo\proyectoDojo -OpenGL\main.cpp(432,1): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+C:\Users\Labor\OneDrive\Documentos\Proyecto-Dojo\proyectoDojo -OpenGL\main.cpp(444,1): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+C:\Users\Labor\OneDrive\Documentos\Proyecto-Dojo\proyectoDojo -OpenGL\main.cpp(459,1): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+C:\Users\Labor\OneDrive\Documentos\Proyecto-Dojo\proyectoDojo -OpenGL\main.cpp(477,1): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+C:\Users\Labor\OneDrive\Documentos\Proyecto-Dojo\proyectoDojo -OpenGL\main.cpp(489,1): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+C:\Users\Labor\OneDrive\Documentos\Proyecto-Dojo\proyectoDojo -OpenGL\main.cpp(509,1): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+C:\Users\Labor\OneDrive\Documentos\Proyecto-Dojo\proyectoDojo -OpenGL\main.cpp(515,1): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+C:\Users\Labor\OneDrive\Documentos\Proyecto-Dojo\proyectoDojo -OpenGL\main.cpp(527,1): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+C:\Users\Labor\OneDrive\Documentos\Proyecto-Dojo\proyectoDojo -OpenGL\main.cpp(539,1): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+C:\Users\Labor\OneDrive\Documentos\Proyecto-Dojo\proyectoDojo -OpenGL\main.cpp(565,1): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+C:\Users\Labor\OneDrive\Documentos\Proyecto-Dojo\proyectoDojo -OpenGL\main.cpp(577,1): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+C:\Users\Labor\OneDrive\Documentos\Proyecto-Dojo\proyectoDojo -OpenGL\main.cpp(583,1): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+C:\Users\Labor\OneDrive\Documentos\Proyecto-Dojo\proyectoDojo -OpenGL\main.cpp(589,1): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+C:\Users\Labor\OneDrive\Documentos\Proyecto-Dojo\proyectoDojo -OpenGL\main.cpp(604,1): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+C:\Users\Labor\OneDrive\Documentos\Proyecto-Dojo\proyectoDojo -OpenGL\main.cpp(611,1): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+C:\Users\Labor\OneDrive\Documentos\Proyecto-Dojo\proyectoDojo -OpenGL\main.cpp(618,1): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+C:\Users\Labor\OneDrive\Documentos\Proyecto-Dojo\proyectoDojo -OpenGL\main.cpp(625,1): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+C:\Users\Labor\OneDrive\Documentos\Proyecto-Dojo\proyectoDojo -OpenGL\main.cpp(633,1): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+C:\Users\Labor\OneDrive\Documentos\Proyecto-Dojo\proyectoDojo -OpenGL\main.cpp(955,1): warning C4305: 'inicializando': truncamiento de 'double' a 'GLfloat'
+C:\Users\Labor\OneDrive\Documentos\Proyecto-Dojo\proyectoDojo -OpenGL\main.cpp(956,1): warning C4305: 'inicializando': truncamiento de 'double' a 'GLfloat'
+  TemplateProject.vcxproj -> C:\Users\Labor\OneDrive\Documentos\Proyecto-Dojo\proyectoDojo -OpenGL\Debug\TemplateProject.exe

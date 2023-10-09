@@ -2,4 +2,4 @@ C:\Users\Labor\OneDrive\Escritorio\ComputacionGrafica-master\Debug\TemplateProje
 D:\ComputacionGrafica-master\Debug\TemplateProject.exe
 D:\Universidad Javeriana\5 - Semestre\COMPUTACION GRAFICA\OpenGL\Debug\TemplateProject.exe
 C:\Users\Labor\OneDrive\Escritorio\OpenGL-main\Debug\TemplateProject.exe
-C:\Users\dorad\Downloads\MOJODOJO-OPENGL\OpenGl\Debug\TemplateProject.exe
+C:\Users\Labor\OneDrive\Documentos\Proyecto-Dojo\proyectoDojo -OpenGL\Debug\TemplateProject.exe
