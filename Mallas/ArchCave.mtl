@@ -1,0 +1,11 @@
+# Created with Anim8or 1.00
+# Object "ArchCave":
+
+newmtl ArchCave
+Ka 0.098 0.098 0.098
+Kd 0.29 0.29 0.29
+Ks 0.165 0.165 0.165
+Ns 752.6
+map_Kd ArchCave_Base_Diffuse.png
+map_Ks ArchCave_Base_Specular.png
+

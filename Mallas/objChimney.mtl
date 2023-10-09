@@ -1,0 +1,16 @@
+newmtl chateau:lambert4SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd -s_0.666667_0.5_-mm_0_0.693122_brick07.jpg
+bump  -bm 1 -s_0.666667_0.5_brick07b.jpg
+Ni 1.00
+newmtl chateau:lambert7SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd -s_0.333333_0.333333_-mm_0_0.592593_maps.hi.183.jpg
+bump  -bm 1 -s_0.333333_0.333333_maps.hi.188.jpg
+Ni 1.00
